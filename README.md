@@ -1,6 +1,6 @@
-#Agentic RAG Pipeline
+# Agentic RAG Pipeline
 This repository contains two Python scripts that implement a Retrieval‑Augmented Generation (RAG) workflow:
-##SCript Details:
+## Script Details:
 ### 🔄 Insert into Vector Store
 
 - **CSVLoader**  
